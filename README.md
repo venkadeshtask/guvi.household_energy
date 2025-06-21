@@ -37,7 +37,7 @@ Visualizations include:
 - Correlation heatmaps and seasonal consumption trends.
 
 **For viewing the profiling of data use the link:** \
-[Household Energy Consumption Profile Report](https://snehapadgaonkar.github.io/Household-energy-consumption-prediction/household_consumption_profile_report.html)
+[Household Energy Consumption Profile Report](https://venkadesh.github.io/Household-energy-consumption-prediction/household_consumption_profile_report.html)
 
 ## Future Scope
 1. **Integration with IoT Devices**: Expand the model to capture real-time data from smart home devices to improve accuracy and optimization of energy use.
