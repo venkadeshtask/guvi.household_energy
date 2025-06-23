@@ -1,4 +1,5 @@
-# Home Energy Consumption Prediction Based on Smart Meter Data
+# AlML_PowerPulse:
+ Household Energy Usage Forecast
 
 ## Overview
 This project aims to create a predictive model for household energy consumption using historical data from smart meters and external factors such as weather conditions. \
